@@ -4,7 +4,9 @@ This repository documents my hands-on IT support practice, including Windows 10/
 
 ## About This Project
 
-I created this repository to track my learning and practice as I build skills for IT support, help desk, desktop support, and production support roles. The focus is on practical troubleshooting, clear documentation, and beginner-to-intermediate support concepts.
+I created this repository to track my learning and practice as I build skills for IT support, help desk, desktop support, and production support roles.
+
+The focus of this project is practical troubleshooting, clear documentation, and beginner-to-intermediate support concepts that relate to real help desk and desktop support work.
 
 ## Skills Practiced
 
@@ -33,6 +35,8 @@ I created this repository to track my learning and practice as I build skills fo
 * Windows Update
 * Print Spooler service
 * Basic networking commands
+* Network+ concepts
+* Help desk ticket documentation
 
 ## Repository Structure
 
@@ -84,9 +88,24 @@ Documents Windows network troubleshooting using commands like `ipconfig`, `ping`
 
 Provides beginner ticket-style examples for password resets, printer issues, network connectivity issues, and Microsoft 365 access problems.
 
+## Planned Additions
+
+I plan to continue adding notes and labs related to:
+
+* Network+ cabling concepts
+* DNS and DHCP troubleshooting
+* Wi-Fi troubleshooting
+* VPN troubleshooting
+* Microsoft 365 support scenarios
+* Printer and print spooler issues
+* Ticket escalation examples
+* Help desk scenario write-ups
+
 ## Current Goal
 
-My goal is to continue building practical IT support skills through hands-on practice, documentation, and troubleshooting labs. This project helps show my progress as I transition into IT support roles.
+My goal is to continue building practical IT support skills through hands-on practice, documentation, and troubleshooting labs.
+
+This project helps show my progress as I transition into IT support roles and continue developing skills in troubleshooting, customer support, networking, and technical documentation.
 
 ## Safety Note
 
