@@ -52,13 +52,18 @@ it-support-labs/
 │   ├── printer-troubleshooting.md
 │   ├── windows-network-troubleshooting.md
 │   ├── ticket-documentation-examples.md
-│   └── network-cabling-basics.md
+│   ├── network-cabling-basics.md
+│   ├── slow-computer-troubleshooting.md
+│   ├── dns-troubleshooting.md
+│   └── dhcp-troubleshooting.md
 └── tickets/
     ├── network-connectivity-ticket-example.md
     ├── microsoft-365-login-ticket-example.md
-    └── printer-offline-ticket-example.md
+    ├── printer-offline-ticket-example.md
+    ├── slow-computer-ticket-example.md
+    ├── dns-troubleshooting-ticket-example.md
+    └── dhcp-troubleshooting-ticket-example.md
 ```
-
 
 ## Notes Included
 
@@ -98,15 +103,20 @@ Provides beginner ticket-style examples for password resets, printer issues, net
 
 I plan to continue adding notes and labs related to:
 
-* DNS and DHCP troubleshooting
 * Wi-Fi troubleshooting
 * VPN troubleshooting
-* Windows update issues
-* Slow computer troubleshooting
-* Microsoft 365 support scenarios
-* Printer and print spooler issues
+* Windows update troubleshooting
+* Blue screen and crash troubleshooting
+* Outlook troubleshooting
+* OneDrive sync troubleshooting
+* Teams audio and video troubleshooting
+* Printer driver troubleshooting
+* Print Spooler troubleshooting
+* Shared drive access troubleshooting
+* Software installation troubleshooting
+* Suspected phishing email ticket examples
 * Ticket escalation examples
-* Help desk scenario write-ups
+* Additional help desk scenario write-ups
 
 ## Current Goal
 
