@@ -1,6 +1,6 @@
 # IT Support Labs
 
-This repository documents my hands-on IT support practice, including Windows 10/11 troubleshooting, Microsoft 365 concepts, command-line tools, PowerShell basics, account access troubleshooting, printer troubleshooting, networking, and ticket documentation.
+This repository documents my hands-on IT support practice, including Windows 10/11 troubleshooting, Microsoft 365 concepts, command-line tools, PowerShell basics, account access troubleshooting, printer troubleshooting, networking, Wi-Fi troubleshooting, and ticket documentation.
 
 ## About This Project
 
@@ -19,6 +19,7 @@ The focus of this project is practical troubleshooting, clear documentation, and
 * Printer troubleshooting
 * Network troubleshooting
 * DNS and DHCP troubleshooting
+* Wi-Fi troubleshooting
 * Network cabling concepts
 * Ticket-style documentation
 * Hardware and software support concepts
@@ -38,6 +39,7 @@ The focus of this project is practical troubleshooting, clear documentation, and
 * Print Spooler service
 * Basic networking commands
 * Network+ concepts
+* Wi-Fi troubleshooting
 * Help desk ticket documentation
 
 ## Repository Structure
@@ -57,14 +59,16 @@ it-support-labs/
 │   ├── network-cabling-basics.md
 │   ├── slow-computer-troubleshooting.md
 │   ├── dns-troubleshooting.md
-│   └── dhcp-troubleshooting.md
+│   ├── dhcp-troubleshooting.md
+│   └── wi-fi-troubleshooting.md
 └── tickets/
     ├── network-connectivity-ticket-example.md
     ├── microsoft-365-login-ticket-example.md
     ├── printer-offline-ticket-example.md
     ├── slow-computer-ticket-example.md
     ├── dns-troubleshooting-ticket-example.md
-    └── dhcp-troubleshooting-ticket-example.md
+    ├── dhcp-troubleshooting-ticket-example.md
+    └── wi-fi-troubleshooting-ticket-example.md
 ```
 
 ## Notes Included
@@ -117,6 +121,10 @@ Documents basic DNS troubleshooting steps, including testing IP connectivity, us
 
 Documents basic DHCP troubleshooting steps, including checking IP configuration, identifying APIPA addresses, and using `ipconfig /release` and `ipconfig /renew`.
 
+### Wi-Fi Troubleshooting
+
+Documents basic Wi-Fi troubleshooting steps, including checking Wi-Fi status, SSID, signal strength, IP configuration, DNS, DHCP, wireless adapter issues, and escalation criteria.
+
 ## Ticket Examples Included
 
 ### Network Connectivity Ticket Example
@@ -143,11 +151,14 @@ Provides a ticket-style example for a user who has network connectivity but cann
 
 Provides a ticket-style example for a user whose workstation did not receive a valid IP address from DHCP.
 
+### Wi-Fi Troubleshooting Ticket Example
+
+Provides a ticket-style example for a user who cannot connect to Wi-Fi or has intermittent wireless connectivity.
+
 ## Planned Additions
 
 I plan to continue adding notes and labs related to:
 
-* Wi-Fi troubleshooting
 * VPN troubleshooting
 * Windows update troubleshooting
 * Blue screen and crash troubleshooting
